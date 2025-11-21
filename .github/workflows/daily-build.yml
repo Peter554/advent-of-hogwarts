@@ -1,0 +1,29 @@
+name: Daily Build
+
+on:
+  schedule:
+    # Run daily at 3AM UTC
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Date (YYYY-MM-DD format)"
+        required: false
+        type: string
+
+jobs:
+  trigger-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set date
+        id: set-date
+        run: |
+          if [ -n "${{ inputs.date }}" ]; then
+            echo "date=${{ inputs.date }}" >> $GITHUB_OUTPUT
+          else
+            echo "date=$(date -u +%Y-%m-%d)" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Trigger build hook
+        run: |
+          curl -X POST -d '${{ steps.set-date.outputs.date }}' ${{ secrets.BUILD_HOOK_URL }}
