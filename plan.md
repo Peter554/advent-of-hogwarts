@@ -154,7 +154,7 @@ Christmas Eve at Hogwarts is quiet as many students have gone home, but the four
 
 ### File Format
 - **Filename:** `{date}.md` where date is in `YYYY-MM-DD` format
-- **Location:** `data/stories/` directory
+- **Location:** `src/data/stories/` directory
 - **Language:** US English spelling and grammar
 
 ### YAML Frontmatter

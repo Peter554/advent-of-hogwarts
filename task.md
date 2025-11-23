@@ -16,7 +16,7 @@ The reader of these stories is especially interested in diversity and inclusion 
 The reader of these stories is a young adult, so the stories must not be threatening, violent or sexually explicit.
 This is very important.
 
-For each story I will need a markdown file with the story text, together with a `title` and `date` (both strings, so `date` needs to be quoted) in the YAML frontmatter. Each story needs to be saved to `data/stories` as a `{date}.md` file. Dates must be in YYYY-MM-DD format. The story text should be in US English.
+For each story I will need a markdown file with the story text, together with a `title` and `date` (both strings, so `date` needs to be quoted) in the YAML frontmatter. Each story needs to be saved to `src/data/stories` as a `{date}.md` file. Dates must be in YYYY-MM-DD format. The story text should be in US English.
 
 Your task is not to write the full stories. Instead, you must create a plan document `plan.md` containing a plan that we can pass to the story writer(s). The plan must include:
 - General task description
