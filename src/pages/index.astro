@@ -9,7 +9,13 @@ const stories = await utils.getStories();
 <Layout
     >{
         stories.map((story) => {
-            return <p>{story.data.title}</p>;
+            return (
+                <p>
+                    <a href={`/stories/${story.data.date}`}>
+                        {story.data.date}: {story.data.title}
+                    </a>
+                </p>
+            );
         })
     }</Layout
 >

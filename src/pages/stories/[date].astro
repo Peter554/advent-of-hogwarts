@@ -1,0 +1,21 @@
+---
+import Layout from "../../layout.astro";
+
+import utils from "../../utils";
+
+export const getStaticPaths = async () => {
+    const stories = await utils.getStories();
+    return stories.map((story) => ({
+        params: { date: story.data.date },
+        props: { story },
+    }));
+};
+
+const { story } = Astro.props;
+---
+
+<Layout>
+    <p>
+        {story.data.date}: {story.data.title}
+    </p>
+</Layout>
