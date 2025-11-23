@@ -1,4 +1,6 @@
 ---
+import { render } from "astro:content";
+
 import Layout from "../../layout.astro";
 
 import utils from "../../utils";
@@ -12,10 +14,13 @@ export const getStaticPaths = async () => {
 };
 
 const { story } = Astro.props;
+
+const { Content, headings } = await render(story);
 ---
 
 <Layout>
     <p>
         {story.data.date}: {story.data.title}
     </p>
+    <Content />
 </Layout>
