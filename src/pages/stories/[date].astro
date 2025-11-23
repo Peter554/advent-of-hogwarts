@@ -6,25 +6,32 @@ import Layout from "../../layout.astro";
 
 import utils from "../../utils";
 
-// Import all images
-
 export const getStaticPaths = async () => {
     const stories = await utils.getStories();
-    return stories.map((story) => ({
-        params: { date: story.data.date },
-        props: { story },
-    }));
+    return stories
+        .filter((story) => story.data.published)
+        .map((story) => ({
+            params: { date: story.data.date },
+            props: { story },
+        }));
 };
 
 const { story } = Astro.props;
 
-const { Content, headings } = await render(story);
+const { Content } = await render(story);
 ---
 
 <Layout>
-    <h1>
-        {story.data.title}
-    </h1>
-    <Image src={story.data.image} alt="" />
-    <Content />
+    <div class="story-page">
+        <a href="/" class="back-link">← Back to Stories</a>
+        <h1>{story.data.title}</h1>
+        <Image
+            src={story.data.image}
+            alt={story.data.title}
+            class="story-image"
+        />
+        <div class="story-content">
+            <Content />
+        </div>
+    </div>
 </Layout>

@@ -1,21 +1,33 @@
 ---
 import Layout from "../layout.astro";
-
 import utils from "../utils";
 
 const stories = await utils.getStories();
 ---
 
-<Layout
-    >{
-        stories.map((story) => {
-            return (
-                <p>
-                    <a href={`/stories/${story.data.date}`}>
-                        {story.data.date}: {story.data.title}
-                    </a>
-                </p>
-            );
-        })
-    }</Layout
->
+<Layout>
+    <div class="story-grid">
+        {
+            stories.map((story) => {
+                const dayNumber = utils.getDayNumber(story.data.date);
+                const isPublished = story.data.published;
+                return (
+                    <div class={`story-card ${!isPublished ? 'disabled' : ''}`}>
+                        {isPublished ? (
+                            <a href={`/stories/${story.data.date}`}>
+                                <div class="story-date">Day {dayNumber}</div>
+                                <h2 class="story-title">{story.data.title}</h2>
+                            </a>
+                        ) : (
+                            <div class="story-locked">
+                                <div class="story-date">Day {dayNumber}</div>
+                                <h2 class="story-title">{story.data.title}</h2>
+                                <div class="lock-icon">🔒</div>
+                            </div>
+                        )}
+                    </div>
+                );
+            })
+        }
+    </div>
+</Layout>
