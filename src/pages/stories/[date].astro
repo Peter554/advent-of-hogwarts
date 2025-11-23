@@ -9,7 +9,7 @@ import utils from "../../utils";
 export const getStaticPaths = async () => {
     const stories = await utils.getStories();
     return stories
-        .filter((story) => story.data.published)
+        .filter((story) => !story.data.locked)
         .map((story) => ({
             params: { date: story.data.date },
             props: { story },

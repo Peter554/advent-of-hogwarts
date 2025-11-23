@@ -17,7 +17,7 @@ export const getStories = async () => {
       ...story,
       data: {
         ...story.data,
-        published: story.data.date <= buildDate,
+        locked: story.data.date > buildDate,
       },
     };
   });
