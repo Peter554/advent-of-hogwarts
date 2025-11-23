@@ -163,10 +163,11 @@ Each story file must begin with YAML frontmatter containing:
 ---
 title: "Story Title Here"
 date: "YYYY-MM-DD"
+image: "../../images/YYYY-MM-DD.png"
 ---
 ```
 
-Both `title` and `date` must be strings (use quotes).
+Both `title`, `date` and `image` must be strings (use quotes).
 
 ### Story Structure
 - **Length:** 1,200-2,400 words (5-10 minutes reading time)
