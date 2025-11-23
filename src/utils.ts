@@ -1,39 +1,23 @@
-import { Glob } from "bun";
+import { getCollection } from "astro:content";
 
-const defaultAsOf = () => {
+const getBuildDate = () => {
   const hookBody = process.env.INCOMING_HOOK_BODY;
   if (hookBody) {
     return hookBody.trim();
   }
-  return new Date().toISOString().split("T")[0];
+  const today = new Date().toISOString().split("T")[0];
+  return today;
 };
 
-export const getStories = async (as_of: string | undefined = undefined) => {
-  as_of = as_of || defaultAsOf();
+export const getStories = async () => {
+  const buildDate = getBuildDate();
 
-  const files = await Array.fromAsync(
-    new Glob("**/*.md").scan({
-      cwd: "data/stories",
-      absolute: true,
-    }),
-  );
-
-  const stories = (
-    await Promise.all(
-      files.map(async (path) => {
-        const text = await Bun.file(path).text();
-        const pathParts = path.split("/");
-        const date = pathParts[pathParts.length - 1]!.replace(".md", "");
-        return {
-          text,
-          date,
-        };
-      }),
-    )
-  ).filter((story) => story.date <= as_of);
+  const stories = await getCollection("stories", ({ data }) => {
+    return data.date <= buildDate;
+  });
 
   return stories.toSorted((a, b) => {
-    return b.date > a.date ? +1 : -1;
+    return a.data.date > b.data.date ? -1 : +1;
   });
 };
 

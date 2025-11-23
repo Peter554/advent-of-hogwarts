@@ -9,7 +9,7 @@ const stories = await utils.getStories();
 <Layout
     >{
         stories.map((story) => {
-            return <p>{story.text}</p>;
+            return <p>{story.data.title}</p>;
         })
     }</Layout
 >
