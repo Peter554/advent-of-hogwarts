@@ -3,10 +3,10 @@ import { getCollection } from "astro:content";
 const getBuildDate = () => {
   const hookBody = process.env.INCOMING_HOOK_BODY;
   if (hookBody) {
-    return hookBody.trim();
+    return new Date(hookBody.trim()).toISOString().split("T")[0];
+  } else {
+    return new Date().toISOString().split("T")[0];
   }
-  const today = new Date().toISOString().split("T")[0];
-  return today;
 };
 
 export const getStories = async () => {
