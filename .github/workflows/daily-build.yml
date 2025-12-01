@@ -1,8 +1,8 @@
 name: Daily Build
 
 on:
-  schedule:
-    - cron: "5 0 * * *"
+  # schedule:  # Using cron-job.org
+  #   - cron: "5 0 * * *"
   workflow_dispatch:
     inputs:
       date:

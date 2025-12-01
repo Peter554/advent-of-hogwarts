@@ -5,7 +5,11 @@ const getBuildDate = () => {
   if (hookBody) {
     return new Date(hookBody.trim()).toISOString().split("T")[0];
   } else {
-    return new Date().toISOString().split("T")[0];
+    // Use sv-SE locale to get YYYY-MM-DD format.
+    const formatter = new Intl.DateTimeFormat("sv-SE", {
+      timeZone: "Europe/Berlin",
+    });
+    return formatter.format(new Date());
   }
 };
 
