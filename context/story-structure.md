@@ -24,14 +24,14 @@ The shape of each story and of the calendar as a whole.
 ## File format
 
 - **Path:** `src/data/stories/<year>/YYYY-12-DD.md`
-- **Image:** `src/images/<year>/YYYY-12-DD.png`
+- **Image:** `src/images/<year>/YYYY-12-DD.jpg` (2026 onward; Gemini returns JPEG. 2025 images are `.png`.)
 - **Frontmatter:** all values are quoted strings.
 
 ```yaml
 ---
 title: "Story Title"
 date: "YYYY-12-01"
-image: "../../../images/<year>/YYYY-12-01.png"
+image: "../../../images/<year>/YYYY-12-01.jpg"
 ---
 ```
 
