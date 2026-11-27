@@ -8,12 +8,12 @@
     "build": "astro build"
   },
   "dependencies": {
-    "astro": "^5.16.0"
+    "astro": "^7.4.13"
   },
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "^1.4.5"
   },
   "peerDependencies": {
-    "typescript": "^5"
+    "typescript": "^7.0.2"
   }
 }
