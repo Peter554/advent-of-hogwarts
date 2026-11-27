@@ -4,18 +4,15 @@ The shape of each story and of the calendar as a whole.
 
 ## The calendar
 
-- **24 stories, Dec 1–24**, one published each day at midnight CET.
+- **24 stories, Dec 1–24**.
 - Each story is **self-contained**: a reader new to the calendar can enjoy it. Continuity rewards daily readers but is never required to understand a story.
 - **A seasonal arc** builds across the month toward the last week of term and Christmas Eve.
-- **Real calendar:**
-  - Dec 1, 2026 is a **Tuesday**; weekends are Dec 5–6, 12–13 and 19–20.
-  - The winter solstice is **Monday Dec 21, 2026**.
-  - Decide the dates of all big events (Hogsmeade weekends, any ball or feast, the end of term, the solstice pact) _before_ writing, and keep weekdays correct.
+- **Real calendar:** e.g. Dec 1, 2026 is a **Tuesday**; weekends are Dec 5–6, 12–13 and 19–20. The winter solstice is **Monday Dec 21, 2026**. Decide the dates of all big events (Hogsmeade weekends, any ball or feast, the end of term, the solstice pact) _before_ writing, and keep weekdays correct.
 - **Balance:**
   - **Point of view:** roughly even across the main characters.
   - **Tone:** a mix of light adventures, mysteries, classes, creatures, festive set pieces and quieter character stories; not more than two "serious" stories in a row.
   - **Ensemble:** every main character gets at least one story centered on their own arc.
-- **Continuity:** keep the continuity sheet (see `2025-learnings.md`) and update it after each story. Before writing a story, check what each character already knows and has done.
+- **Continuity:** use a continuity sheet (see `2025/learnings.md`) and update it after each story. Before writing a story, check what each character already knows and has done.
 
 ## A single story
 

@@ -15,7 +15,7 @@ How the stories should read.
 - **Point of view:** third person limited, staying with one character per scene. Rotate point-of-view characters across the month so no one dominates.
 - **Language:**
   - British English spelling and punctuation.
-  - British characters still say British things in dialogue (Mum, jumper, term).
+  - Characters say British things in dialogue (Mum, jumper, term).
 - **Show, don't tell.** Carry emotion through action, objects, setting and subtext. **State the lesson at most once.** Generally avoid a closing paragraph that summarizes the moral.
 - **Dialogue:** natural and specific to each speaker, and how teenagers actually talk. Avoid speeches. Characters should sometimes disagree, misunderstand, joke at the wrong moment or say the wrong thing.
 - **Distinct voices:**
