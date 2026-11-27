@@ -13,12 +13,12 @@ Three threads run through the month:
 1. **The lanterns (light through-line).** On Dec 1, Flitwick assigns the fifth years the **Lantern Walk**, an old O.W.L.-year tradition. Each student builds a lantern that lights from "the thing you carry". The four lanterns are dark or unreliable at first and light properly one by one. They all shine on the solstice walk on Dec 21. Lanterns appear in roughly seven stories and are never over-explained.
 2. **Futures.** Each friend has a quiet question to settle, and each settles it by Dec 24:
 
-   | | Question | Answer |
-   |---|---|---|
-   | Elliot | Potions, duelling or art? | Art, with duelling as a hobby. Their mother comes round. |
-   | Finn | Sprout's botanical placement, or the family wand shop? | The placement. His dad is happy for him. |
-   | Mira | Fourteen possible careers | Provisionally runic research and teaching |
-   | Zara | Captaincy and her sister | A vice-captain to share the load, and a sister who is her own person |
+   |        | Question                                               | Answer                                                               |
+   | ------ | ------------------------------------------------------ | -------------------------------------------------------------------- |
+   | Elliot | Potions, duelling or art?                              | Art, with duelling as a hobby. Their mother comes round.             |
+   | Finn   | Sprout's botanical placement, or the family wand shop? | The placement. His dad is happy for him.                             |
+   | Mira   | Fourteen possible careers                              | Provisionally runic research and teaching                            |
+   | Zara   | Captaincy and her sister                               | A vice-captain to share the load, and a sister who is her own person |
 
 3. **The empty chair.** On Dec 1, Finn notices an empty chair at the table where the four friends aren't sitting. On Dec 21 they add a line to the pact: one chair is always left empty for whoever needs it. On Dec 24 the empty chair is filled.
 
@@ -51,25 +51,25 @@ Yes: the calendar should add a couple of fresh faces, so the four friends aren't
 
 ## Calendar (Dec 2026)
 
-| Date | Event |
-|---|---|
-| Tue Dec 1 | Lantern Walk assigned |
-| Fri Dec 4 | Greenhouse night shift |
-| Sat Dec 5 | Hogsmeade weekend 1; St Nicholas eve (Czech tradition) |
-| Sun Dec 6 | Quidditch: Gryffindor v Ravenclaw; St Nicholas Day |
-| Fri Dec 11 | Slughorn's Christmas party |
-| Sat Dec 12 | Hogsmeade weekend 2; Lucia Novak's guest lecture |
-| Sun Dec 13 | Snowball war |
-| Tue Dec 15 | Banner finished |
-| Wed Dec 16 | Pact meeting (the wobble) |
-| Thu Dec 17 | Greenhouse harvest (mended) |
-| Fri Dec 18 | Last day of lessons; staff pantomime |
-| Sat Dec 19 | Pyjama Quidditch |
-| Sun Dec 20 | Lantern-making night |
-| Mon Dec 21 | Winter solstice: Lantern Walk and pact |
-| Tue Dec 22 | Hogwarts Express leaves; the stayers decorate |
-| Wed Dec 23 | Portraits' night |
-| Thu Dec 24 | Christmas Eve feast |
+| Date       | Event                                                  |
+| ---------- | ------------------------------------------------------ |
+| Tue Dec 1  | Lantern Walk assigned                                  |
+| Fri Dec 4  | Greenhouse night shift                                 |
+| Sat Dec 5  | Hogsmeade weekend 1; St Nicholas eve (Czech tradition) |
+| Sun Dec 6  | Quidditch: Gryffindor v Ravenclaw; St Nicholas Day     |
+| Fri Dec 11 | Slughorn's Christmas party                             |
+| Sat Dec 12 | Hogsmeade weekend 2; Lucia Novak's guest lecture       |
+| Sun Dec 13 | Snowball war                                           |
+| Tue Dec 15 | Banner finished                                        |
+| Wed Dec 16 | Pact meeting (the wobble)                              |
+| Thu Dec 17 | Greenhouse harvest (mended)                            |
+| Fri Dec 18 | Last day of lessons; staff pantomime                   |
+| Sat Dec 19 | Pyjama Quidditch                                       |
+| Sun Dec 20 | Lantern-making night                                   |
+| Mon Dec 21 | Winter solstice: Lantern Walk and pact                 |
+| Tue Dec 22 | Hogwarts Express leaves; the stayers decorate          |
+| Wed Dec 23 | Portraits' night                                       |
+| Thu Dec 24 | Christmas Eve feast                                    |
 
 No Yule Ball. The solstice and its lanterns replace it.
 
@@ -99,21 +99,21 @@ No Yule Ball. The solstice and its lanterns replace it.
 
 ## Balance
 
-| | Finn | Zara | Elliot | Mira |
-|---|---|---|---|---|
+|             | Finn                 | Zara                | Elliot               | Mira                 |
+| ----------- | -------------------- | ------------------- | -------------------- | -------------------- |
 | **Stories** | 1, 4, 10, 14, 17, 21 | 2, 6, 9, 13, 19, 22 | 3, 7, 12, 15, 18, 24 | 5, 8, 11, 16, 20, 23 |
 
 Each friend gets six stories, and nobody narrates twice in a row.
 
 **Tone sequence:** L = light, Q = quiet, M = medium.
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| L | L/M | Q | Q | L | M | Q | L | L | L | L | M |
+| 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| L   | L/M | Q   | Q   | L   | M   | Q   | L   | L   | L   | L   | M   |
 
-| 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| L | L | Q | M | Q | L | L | L/Q | M | L | L | Q/L |
+| 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| L   | L   | Q   | M   | Q   | L   | L   | L/Q | M   | L   | L   | Q/L |
 
 **Callbacks** (one or two per story at most): the library alcove (Dec 8, 20, 23), Biscuit (Dec 9), the elves (Dec 14, 24), Remembrall (Dec 10 only), the pact (Dec 16, 21), Wonder Seekers t-shirts (Dec 18).
 
@@ -128,6 +128,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** Professor Flitwick announces the Lantern Walk: an old O.W.L.-year tradition where each fifth year builds a lantern and carries it on the solstice walk on Dec 21. A lantern lights only from "the thing you carry into the dark".
 
 **Beats.**
+
 1. Breakfast. Finn arrives in the Great Hall and sees his three friends at three different house tables, each with their own year-group, revision notes in hand. He sits with Oliver at Hufflepuff. There is an empty chair at the Hufflepuff table beside him.
 2. Charms. Flitwick, standing on a stack of books, explains the Lantern Walk. Thorne hands out brass frames, glass panes and wicks. Students try to light them with wand-fire and fail.
 3. Finn's lantern lights on its own, a warm gold, the moment he picks it up. He is startled and hides it under his robe. Mira's lantern stays dark however carefully she charms it. Zara's lights in splutters. Elliot's lights faintly, and goes out when anyone looks.
@@ -143,6 +144,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** Three months into her first term, Amara has hidden a Knarl (a hedgehog-like creature, suspicious of humans) in the Hufflepuff first-year dormitory. Zara finds out and goes to "handle it".
 
 **Beats.**
+
 1. Zara gets a note from Professor Sprout: Amara has a creature in her dorm and isn't answering questions. Zara jogs across the castle, rehearsing a firm big-sister speech.
 2. In the dormitory she finds Amara and the Knarl (called **Nettle**) on a nest of jumpers. Nettle bristles at Zara. Amara says Nettle likes her because she doesn't hover.
 3. Zara tries to help, tidying and giving orders, which makes Nettle's quills flare. Amara, patiently, says "I'm fine, Zara. I'm not your project." Zara says the wrong thing: "I'm just trying to look after you." They both go quiet.
@@ -158,6 +160,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** Fifth-year careers meetings with Heads of House.
 
 **Beats.**
+
 1. Slughorn's office: crystallised pineapple, armchairs, framed photographs of former pupils. Elliot arrives early and counts the photographs (eleven potioneers, three Ministry heads).
 2. Slughorn is warm and enthusiastic. He is certain Elliot will pursue Potions. He mentions he has written to their mother Lucia, and that he'll invite her to guest-lecture next week. Elliot says "I'm keeping my options open" and Slughorn hears "yes".
 3. Elliot tries to bring up drawing and can't. They look at the photographs. They mention duelling. Slughorn says it's a lovely hobby.
@@ -173,6 +176,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** Frostblooms open only after midnight, one every ten minutes, and only for gentle hands. Sprout needs help picking them for the Christmas Eve feast and takes Finn on a night shift.
 
 **Beats.**
+
 1. Greenhouse Four at midnight. Sprout and Finn, in scarves and fingerless gloves, work along the frostbloom bed. Each bloom opens with a faint chime.
 2. They talk while they wait. Sprout says the best Herbologists she knew were those who liked waiting.
 3. Sprout offers Finn a six-week summer placement at the **Fenmoor Botanical Gardens**, a wizarding garden in the fens. She has recommended him. It starts in July, the same month his dad usually wants help in the wand shop.
@@ -188,6 +192,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** Honeydukes' new seasonal fudge tastes of whatever you most want.
 
 **Beats.**
+
 1. Hogsmeade, first snow of the weekend. Mira has an itinerary for her date with Priya: tea, bookshop, fudge, lake walk. Each stop has a fallback.
 2. Zara and Elliot say they're "doing their own Hogsmeade", and then appear at every stop, always three tables away and badly hidden.
 3. At Honeydukes, Mira and Priya try Longing Fudge. Mira's tastes of her grandmother's kitchen (cardamom tea, ghee on toast). Priya's tastes of mint toothpaste: she hasn't slept properly since the Arithmancy challenge started.
@@ -203,6 +208,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** Gryffindor v Ravenclaw. Gryffindor lose.
 
 **Beats.**
+
 1. Morning. Tamsin (Chaser) is hit by a Bludger in the first quarter-hour and has to leave. Zara, short a Chaser, keeps Jamie (Seeker) back to defend and score.
 2. At 140–0 Gryffindor, the Ravenclaw Seeker catches the Snitch. Ravenclaw win by ten (150–140). Zara, on the broom, sees it happen.
 3. The Ravenclaw stands erupt. In the crowd, Mira's blue scarf. She cheers once, sees Zara's face, and stops.
@@ -219,6 +225,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** St Nicholas Day, a day late. The parcel from home arrives on Monday.
 
 **Beats.**
+
 1. Elliot opens the parcel at the Slytherin table. Inside are sweets, a lump of coal (the family joke), and a note from Lucia: Slughorn has invited her to lecture on Saturday and she hopes to see them.
 2. Their father has tucked in a pencil drawing of the Prague kitchen. On the back he has written: "Your mother has been looking at the Yule Ball photograph for a week. She hasn't said anything. She hasn't stopped."
 3. Elliot reads the note several times, shares the sweets with the whole table, and doesn't eat any.
@@ -234,6 +241,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** Someone has replied to the friends' note in the library alcove.
 
 **Beats.**
+
 1. Mira goes to the alcove for a quiet hour and finds, under the friends' pinned note, a line in green ink: "Thank you. I come here after lights-out. Is that all right? —W."
 2. She investigates, comically over-qualified: handwriting, ink brand (Flourish & Blotts green), the library's late-pass logs. The trail points to first-year Ravenclaws.
 3. She finds **Wren Calloway** reading alone at dinner. Wren is Muggle-raised from Whitby and homesick. She writes poetry in the margins of library books and has been using the alcove because it feels like a private conversation.
@@ -250,6 +258,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** Baubles keep vanishing from the Great Hall's Christmas trees overnight. Hagrid blames pixies. It's Biscuit the Niffler.
 
 **Beats.**
+
 1. The trees have lost forty baubles in three nights. McGonagall asks for volunteers to stake out the Hall. Zara volunteers. Amara turns up uninvited.
 2. At 1am the two sisters wait under the high table. Amara spots small paw-prints in the dust. She says Niffler.
 3. They follow the tracks to the hoard room under the castle (from 2025), where Biscuit lives among buttons and coins. He is delighted by shiny things and not at all sorry.
@@ -266,6 +275,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** Oliver has been invited to the Highlands for Hogmanay and is terrified of meeting Finn's wandmaker dad.
 
 **Beats.**
+
 1. In the greenhouse, Oliver confesses: he has practised shaking hands in the mirror.
 2. Finn recruits Zara to play his dad. She wears a false moustache and an enormous tweed coat, and asks Oliver questions about wand cores. It goes wrong in funny ways: Oliver says "dragon heartstring" twice and "unicorn" once.
 3. Finn laughs too hard to coach. Oliver, relaxed, says Finn is just as nervous about something else.
@@ -282,6 +292,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** Slughorn's Christmas party. Each guest's name card slides across the table to whoever Slughorn considers most useful to them.
 
 **Beats.**
+
 1. Mira goes as Priya's plus-one. Priya has been invited as an Arithmancy prodigy. Mira has a "borrowed" velvet robe and no expectations.
 2. The name cards keep sliding. Mira ends up beside a retired Ministry runologist. Priya beside a Gringotts curse-breaker. They keep being moved.
 3. Elliot is here too. Mira, who knows Lucia has arrived, notices Elliot going quiet. Lucia, glamorous and brisk, greets her son stiffly and warmly at once.
@@ -298,6 +309,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** Lucia Novak guest-lectures the fifth-year Potions class, then walks with Elliot by the lake.
 
 **Beats.**
+
 1. Lucia's lecture is brilliant. She demonstrates a healing draught and speaks with passion about the patients. Elliot sees what they love in it and what they don't.
 2. The class applauds. Lucia is genuinely surprised. She finds Elliot afterwards and says, "I thought you might not want a lunch with Slughorn. Walk?"
 3. By the lake, awkwardly, in cold air: Lucia says she has seen the Yule Ball photograph. "You looked happy. I would like to know what to call you." Elliot says "Elliot. They." Lucia repeats it clumsily, the way you practise.
@@ -315,6 +327,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** A Sunday morning snowball war between first years and fifth years.
 
 **Beats.**
+
 1. Overnight snow. A first-year ambush on the lawn: Amara commands the first years with Wren as her second-in-command. Zara's fifth years are caught off guard.
 2. Zara, still stinging from Dec 6, throws herself in with joy, builds a snow wall in minutes and negotiates across it with her sister in the voice of a Quidditch captain.
 3. Elliot arrives with hot chocolate, Finn with a tray of mince pies, Mira with a clipboard. They all join in.
@@ -331,6 +344,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** The kitchen elves want Christmas Eve off, with the staff and students cooking the feast. Finn is asked to bring it to McGonagall.
 
 **Beats.**
+
 1. In the kitchens, Tibby presents her case with a rolled parchment. The elves have worked every Christmas Eve for centuries, and want one night to eat, sing and rest.
 2. Finn is chosen as spokesperson because they trust him. He is not good at asking for things. He practises on Dibby, who is better at the part.
 3. In McGonagall's office he stammers through the proposal. McGonagall listens, asks questions and says yes, with conditions: the elves truly rest, and a Hogwarts committee (Hagrid, Sprout, Flitwick, Finn) runs the cooking.
@@ -346,6 +360,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** McGonagall asks Elliot to design the banner for the Lantern Walk.
 
 **Beats.**
+
 1. McGonagall found a sketch left behind on a Transfiguration desk (Elliot's drawing of the lake and the castle) and asks them privately to design the banner.
 2. Elliot says no. McGonagall says "Think about it." They draw four versions in the library and tear each one up.
 3. Wren, studying in the alcove, finds one of the crumpled drafts in the bin and smooths it out. She says it's the best thing she's seen in the castle. She isn't flattering. She just says it.
@@ -362,6 +377,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** Mira, anxious about the drift, plans the solstice pact like a project. The others don't show up.
 
 **Beats.**
+
 1. Mira sends the others a schedule by owl: pact meetings at 7pm Wed, Fri and Sun, with snacks assigned. She's pleased.
 2. At 7pm she is alone in the classroom. Zara is delayed by a long Quidditch practice, Finn is covered in mud in a greenhouse and Elliot is still painting the banner.
 3. Zara arrives at 7.40pm, out of breath. She jokes: "Is this an O.W.L.?" It lands badly. Mira says "Somebody has to organise it." Zara says "I didn't know we needed organising." They both stop.
@@ -378,6 +394,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** The last frostblooms must be harvested tonight, and they only open in a ring of four lamps. Finn needs four people.
 
 **Beats.**
+
 1. Finn has been mulling over how to fix the Dec 16 awkwardness. Sprout's note arrives: the last frostblooms open tonight, and need four lamps at four points.
 2. He asks each friend separately. Mira says yes at once, Zara after a pause, Elliot says "Fine" and shows up in paint-spattered robes.
 3. Midnight, Greenhouse Four. The four stand at the four corners of the bed, holding lamps, with the plants between them. Nobody says much. Each frostbloom opens, one by one, with a chime.
@@ -394,6 +411,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** The last day of lessons ends with the staff's annual pantomime, "Cinderella (Mostly)".
 
 **Beats.**
+
 1. Elliot arrives at the Great Hall with a parcel. The "Wonder Seekers" t-shirts they ordered in November have finally come. They put one on over their robes and hand out the rest. Zara wears hers instantly. Mira reads the small print. Finn hugs his.
 2. The pantomime: Flitwick as the Fairy Godmother on a stack of books, Hagrid and Sprout as the pumpkin-coach horse, Vance in sequins as an Ugly Sister, Sinistra narrating in a deadpan voice, and Thorne leading audience calls of "He's behind you!"
 3. The horse's back half (Sprout) trips and takes out the set. Hagrid goes on unfazed.
@@ -409,6 +427,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** An old school tradition: a cross-house, any-age match in pyjamas on the first Saturday of the holidays, with no Bludgers and a Snitch made of marzipan.
 
 **Beats.**
+
 1. Zara has been asked to referee, not captain. She finds this hard and then enjoyable.
 2. Amara plays for a first-year team on a school broom. She flies fearlessly and not well. Zara, from the sidelines, wants to intervene, and doesn't.
 3. Amara crashes into the goalpost, laughs and gets back up. Zara realises she's the one who needed to learn to fall.
@@ -425,6 +444,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** The lanterns are due tomorrow. Mira's still hasn't lit.
 
 **Beats.**
+
 1. In the Charms classroom, the fifth years finish their lanterns. Mira's is polished, bound and dark.
 2. Wren comes to help with the glass. They talk about whatever they are carrying. Wren says hers is "a book I haven't written yet".
 3. Priya brings tea. Zara, Elliot and Finn arrive to finish their frames too. They work side by side.
@@ -441,6 +461,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** The solstice. The whole school walks to the frozen lake at dusk with lanterns, the fifth years leading.
 
 **Beats.**
+
 1. Morning. An owl brings Finn's father's reply. "The shop will keep. I'd have been sorry if you'd stayed for its sake. Bring Oliver and warm socks." Finn grins all through breakfast.
 2. Dusk. The walk. The banner in the Hall, the lanterns in a long glowing line, the lake frozen white. Priya walks with Mira, Oliver with Finn, Amara and Wren with the first years.
 3. At the lake the four stop. Each wishes for another: the pact. Finn for Elliot (courage with their art), Mira for Finn (a happy placement), Zara for Mira (rest), Elliot for Zara (the team).
@@ -457,6 +478,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** The Hogwarts Express leaves and the stayers decorate the nearly empty Great Hall.
 
 **Beats.**
+
 1. Zara and Amara, with the rest of the stayers, wave off the Express from the Hogsmeade platform. Priya leaves; Mira hugs her.
 2. Back at school McGonagall assigns the stayers a job: re-hang the solstice lanterns in the Great Hall before Christmas Eve.
 3. Zara leads. She directs the decorators, each with their own broom, flying indoors with McGonagall's cautious permission. Amara, Wren and the Hufflepuff first years do the low ones.
@@ -472,6 +494,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** When the castle empties, the portraits hold a ball on the Grand Staircase.
 
 **Beats.**
+
 1. Mira, awake late, hears music on the stairs. Wren is with her, in dressing gown and green scarf.
 2. They find portraits swapping frames, the Fat Lady waltzing with a knight, and a long-dead Ravenclaw runologist, **Dame Isolde Wake**, discussing syntax with a stuffed troll.
 3. Dame Isolde recognises a student after her own heart and gives Mira a puzzle: translate a half-lost runic inscription on the frame. Mira solves it.
@@ -488,6 +511,7 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 **Premise.** The elves have the night off. The staff and students cook the feast.
 
 **Beats.**
+
 1. Afternoon in the kitchens. Hagrid is in charge of the roast (too large), Sprout of vegetables, Flitwick of dessert, Slughorn of "tasting".
 2. Elliot makes their grandmother's kolače and the Christmas Eve carp. The carp is a catastrophe (it escapes). The whole kitchen chases it.
 3. An owl brings Lucia's reply. She writes in careful English: "I am learning. Elliot. They." Inside are photographs of Elliot's grandmother's sketchbook, a lifetime of drawings she kept hidden. Lucia: "I would like to show you the rest at Easter. Come home."
@@ -503,19 +527,19 @@ Each entry gives the premise, the beats in order, what it sets up or pays off, a
 
 ## Thread tracker
 
-| Thread | Introduced | Developed | Resolved |
-|---|---|---|---|
-| Lanterns | Dec 1 | Dec 15 (Elliot), 19 (Zara), 20 (Mira) | Dec 21 |
-| Empty chair | Dec 1 | | Dec 21 (pact), Dec 24 (filled) |
-| Finn: placement | Dec 4 | Dec 10, 17 | Dec 21 (dad's reply) |
-| Elliot and Lucia | Dec 3 | Dec 7, 11, 12 | Dec 24 |
-| Elliot's art | Dec 3 | Dec 12, 15 | Dec 24 |
-| Zara and Amara | Dec 2 | Dec 6, 9, 13, 19 | Dec 22 |
-| Mira's futures | Dec 11 | Dec 8, 16, 20 | Dec 23 |
-| Mira and Priya | Dec 5 | Dec 11 | Dec 22 (goodbye) |
-| Wren | Dec 8 | Dec 13, 15, 20 | Dec 24 |
-| Elves | Dec 14 | | Dec 24 |
-| The wobble | Dec 16 | | Dec 17 |
+| Thread           | Introduced | Developed                             | Resolved                       |
+| ---------------- | ---------- | ------------------------------------- | ------------------------------ |
+| Lanterns         | Dec 1      | Dec 15 (Elliot), 19 (Zara), 20 (Mira) | Dec 21                         |
+| Empty chair      | Dec 1      |                                       | Dec 21 (pact), Dec 24 (filled) |
+| Finn: placement  | Dec 4      | Dec 10, 17                            | Dec 21 (dad's reply)           |
+| Elliot and Lucia | Dec 3      | Dec 7, 11, 12                         | Dec 24                         |
+| Elliot's art     | Dec 3      | Dec 12, 15                            | Dec 24                         |
+| Zara and Amara   | Dec 2      | Dec 6, 9, 13, 19                      | Dec 22                         |
+| Mira's futures   | Dec 11     | Dec 8, 16, 20                         | Dec 23                         |
+| Mira and Priya   | Dec 5      | Dec 11                                | Dec 22 (goodbye)               |
+| Wren             | Dec 8      | Dec 13, 15, 20                        | Dec 24                         |
+| Elves            | Dec 14     |                                       | Dec 24                         |
+| The wobble       | Dec 16     |                                       | Dec 17                         |
 
 ## Craft notes for 2026
 

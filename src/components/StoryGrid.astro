@@ -21,7 +21,19 @@ const stories = await utils.getStories(year);
                     <div class="story-locked">
                         <div class="story-date">Day {dayNumber}</div>
                         <h2 class="story-title">{story.data.title}</h2>
-                        <div class="lock-icon">🔒</div>
+                        <div class="lock-icon" aria-label="Locked" role="img">
+                            <svg
+                                viewBox="0 0 24 24"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="2"
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                            >
+                                <rect x="4" y="11" width="16" height="10" rx="2" />
+                                <path d="M8 11V7a4 4 0 0 1 8 0v4" />
+                            </svg>
+                        </div>
                     </div>
                 ) : (
                     <a href={utils.getStoryUrl(story.data.date)}>

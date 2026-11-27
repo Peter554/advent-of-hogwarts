@@ -17,19 +17,12 @@ const years = await Promise.all(
 <Layout title="All years">
     <h2 class="year-heading">All years</h2>
     <div class="story-grid">
-        {
-            years.map(({ year, total, unlocked }) => (
-                <div class="story-card">
-                    <a href={`/${year}/`}>
-                        <div class="story-date">
-                            {unlocked === total
-                                ? `${total} stories`
-                                : `${unlocked} of ${total} stories`}
-                        </div>
-                        <h2 class="story-title">{year}</h2>
-                    </a>
-                </div>
-            ))
-        }
+        {years.map(({ year, total, unlocked }) => (
+            <div class="story-card">
+                <a href={`/${year}/`}>
+                    <h2 class="story-title">{year}</h2>
+                </a>
+            </div>
+        ))}
     </div>
 </Layout>
