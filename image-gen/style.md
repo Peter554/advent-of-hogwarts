@@ -1,7 +1,0 @@
-- Storybook illustration, like the interior art of a middle-grade fantasy novel: clean ink outlines, soft painterly color, warm candle or lamp light.
-- Exactly the art style of the reference image(s).
-- Warm, magical and heartwarming; never dark, scary or threatening.
-- Rich, saturated colors; winter atmosphere (snow, frost, cold blue light outside, warm gold light inside).
-- Hogwarts setting: Gothic stone, tall arched windows, torches, floating candles, house colors.
-- Wide landscape composition, roughly 16:9.
-- No text, lettering, captions, signatures or watermarks in the image.

@@ -141,5 +141,3 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
-# Image generation variants (pick the keepers into src/images/)
-image-gen/out/

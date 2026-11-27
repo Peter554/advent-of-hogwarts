@@ -1,5 +1,0 @@
-{
-  "model": "gemini-3.1-flash-image",
-  "references": ["src/images/2025/2025-12-12.png"],
-  "generationConfig": {}
-}

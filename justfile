@@ -16,7 +16,3 @@ fmt:
 check:
     bun check
     bun fmt --check
-
-# Generate story images (see image-gen/README.md)
-images *args:
-    bun image-gen/generate.ts {{ args }}
