@@ -1,0 +1,16 @@
+---
+import Layout from "../../layout.astro";
+import StoryGrid from "../../components/StoryGrid.astro";
+import utils from "../../utils";
+
+export const getStaticPaths = async () => {
+    const years = await utils.getYears();
+    return years.map((year) => ({ params: { year } }));
+};
+
+const { year } = Astro.params;
+---
+
+<Layout title={year}>
+    <StoryGrid year={year} />
+</Layout>
