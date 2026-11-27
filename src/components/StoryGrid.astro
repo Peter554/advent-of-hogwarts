@@ -1,0 +1,35 @@
+---
+import utils from "../utils";
+
+interface Props {
+    year: string;
+}
+
+const { year } = Astro.props;
+
+const stories = await utils.getStories(year);
+---
+
+<h2 class="year-heading">{year}</h2>
+<div class="story-grid">
+    {stories.map((story) => {
+        const dayNumber = utils.getDayNumber(story.data.date);
+        const locked = story.data.locked;
+        return (
+            <div class={`story-card ${locked ? "disabled" : ""}`}>
+                {locked ? (
+                    <div class="story-locked">
+                        <div class="story-date">Day {dayNumber}</div>
+                        <h2 class="story-title">{story.data.title}</h2>
+                        <div class="lock-icon">🔒</div>
+                    </div>
+                ) : (
+                    <a href={utils.getStoryUrl(story.data.date)}>
+                        <div class="story-date">Day {dayNumber}</div>
+                        <h2 class="story-title">{story.data.title}</h2>
+                    </a>
+                )}
+            </div>
+        );
+    })}
+</div>

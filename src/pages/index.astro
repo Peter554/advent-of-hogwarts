@@ -1,33 +1,12 @@
 ---
 import Layout from "../layout.astro";
+import StoryGrid from "../components/StoryGrid.astro";
 import utils from "../utils";
 
-const stories = await utils.getStories();
+// Worked out at build time: the newest year that has stories.
+const year = await utils.getLatestYear();
 ---
 
 <Layout>
-    <div class="story-grid">
-        {
-            stories.map((story) => {
-                const dayNumber = utils.getDayNumber(story.data.date);
-                const locked = story.data.locked;
-                return (
-                    <div class={`story-card ${locked ? "disabled" : ""}`}>
-                        {locked ? (
-                            <div class="story-locked">
-                                <div class="story-date">Day {dayNumber}</div>
-                                <h2 class="story-title">{story.data.title}</h2>
-                                <div class="lock-icon">🔒</div>
-                            </div>
-                        ) : (
-                            <a href={`/stories/${story.data.date}`}>
-                                <div class="story-date">Day {dayNumber}</div>
-                                <h2 class="story-title">{story.data.title}</h2>
-                            </a>
-                        )}
-                    </div>
-                );
-            })
-        }
-    </div>
+    <StoryGrid year={year} />
 </Layout>
