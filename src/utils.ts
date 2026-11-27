@@ -3,7 +3,7 @@ import { getCollection } from "astro:content";
 const getBuildDate = () => {
   const hookBody = process.env.INCOMING_HOOK_BODY;
   if (hookBody) {
-    return new Date(hookBody.trim()).toISOString().split("T")[0];
+    return new Date(hookBody.trim()).toISOString().slice(0, 10);
   } else {
     // Use sv-SE locale to get YYYY-MM-DD format.
     const formatter = new Intl.DateTimeFormat("sv-SE", {
