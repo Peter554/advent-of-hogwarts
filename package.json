@@ -11,6 +11,7 @@
     "astro": "^7.4.13"
   },
   "devDependencies": {
+    "@google/genai": "^3.6.1",
     "@types/bun": "^1.4.5"
   },
   "peerDependencies": {
