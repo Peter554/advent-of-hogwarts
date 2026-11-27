@@ -12,7 +12,7 @@ The shape of each story and of the calendar as a whole.
   - **Point of view:** roughly even across the main characters.
   - **Tone:** a mix of light adventures, mysteries, classes, creatures, festive set pieces and quieter character stories; not more than two "serious" stories in a row.
   - **Ensemble:** every main character gets at least one story centered on their own arc.
-- **Continuity:** use a continuity sheet (see `2025/learnings.md`) and update it after each story. Before writing a story, check what each character already knows and has done.
+- **Continuity:** Aim for continuity between the stories. Before writing a story, check what each character already knows and has done.
 
 ## A single story
 
