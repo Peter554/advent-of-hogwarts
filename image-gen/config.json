@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://litellm.kraken.tech",
+  "model": "gemini-2.5-flash-image",
+  "references": ["src/images/2025/2025-12-12.png"],
+  "extraBody": {}
+}
