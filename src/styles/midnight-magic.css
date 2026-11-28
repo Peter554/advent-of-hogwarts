@@ -5,11 +5,6 @@
    prefers-reduced-motion.
    ============================================ */
 
-/* Cross-fade between pages (no JS) */
-@view-transition {
-  navigation: auto;
-}
-
 :root {
   color-scheme: dark;
 
@@ -164,7 +159,6 @@ a:focus-visible {
 
 /* Header */
 header {
-  view-transition-name: site-header;
   background: rgba(26, 29, 41, 0.95);
   padding: 1.5rem 2rem;
   margin-bottom: 3rem;
@@ -437,7 +431,6 @@ footer {
   text-align: center;
   margin-bottom: 2rem;
   font-size: 2.5rem;
-  animation: unveil 0.8s ease-out both;
 }
 
 .story-hero {
@@ -455,8 +448,6 @@ footer {
   height: auto;
   border-radius: inherit;
   border: 1px solid rgba(179, 229, 252, 0.5);
-  /* breath-on-glass reveal (4) */
-  animation: unveil 0.8s ease-out both;
 }
 
 /* Frost over the picture: pale rim light + frosted top edge */
@@ -474,13 +465,6 @@ footer {
   box-shadow:
     inset 0 0 36px 2px rgba(224, 247, 255, 0.22),
     inset 0 0 0 1px rgba(224, 247, 255, 0.25);
-}
-
-@keyframes unveil {
-  from {
-    opacity: 0;
-    filter: blur(8px);
-  }
 }
 
 .story-content {
@@ -764,10 +748,6 @@ header h1 {
   *::after {
     animation: none !important;
     transition: none !important;
-  }
-
-  @view-transition {
-    navigation: none;
   }
 }
 
