@@ -255,6 +255,19 @@ footer {
   letter-spacing: 0.05em;
 }
 
+.footer-note {
+  margin: 0.5rem 0 0;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: var(--silver-dark);
+}
+
+/* Disclaimer */
+.disclaimer {
+  max-width: 40rem;
+  margin: 2rem auto 0;
+}
+
 /* Year Heading */
 .year-heading {
   text-align: center;
