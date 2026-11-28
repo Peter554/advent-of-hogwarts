@@ -1,5 +1,6 @@
 {
   "extends": "astro/tsconfigs/strict",
+  "exclude": ["tmp", "dist", "node_modules"],
   "compilerOptions": {
     "lib": ["ESNext"],
     "module": "Preserve",
